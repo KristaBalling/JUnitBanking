@@ -19,4 +19,9 @@ public class BankAccountTest {
         fail("This test has yet to be implemented");
     }
 
+    @org.junit.Test
+    public void dummyTest() {
+        assertEquals(20, 21);
+    }
+
 }
